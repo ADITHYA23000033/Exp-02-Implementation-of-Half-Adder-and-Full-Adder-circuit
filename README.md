@@ -36,19 +36,59 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
+
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+
+Developed by:ADITHYA V
+
+RegisterNumber: 23000033 
 */
-Logic symbol & Truthtable
-RTL realization
+
+half adder
+
+![Exp3 ha code](https://github.com/ADITHYA23000033/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514544/4b905c93-8466-4995-9ce2-fce8e5524fba)
+
+full adder
+
+![Exp3 fa code](https://github.com/ADITHYA23000033/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514544/e656eb4e-6c36-41aa-bed2-c630fa00e3f8)
+
+
 
 ### Output:
-### RTL
+RTL:
+
+half adder
+
+![Exp3 ha RTL diagram](https://github.com/ADITHYA23000033/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514544/33ce53c5-866d-457a-a944-8457bb20653c)
+
+full adder
+
+![Exp3 fa RTL diagram](https://github.com/ADITHYA23000033/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514544/9eb8932d-6482-4e80-bdfb-3cca36dd9a37)
+
+
 ### TIMING DIAGRAM
 
+half adder
 
-### TRUTH TABLE 
+![exp3 ha wave](https://github.com/ADITHYA23000033/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514544/e7a96112-ead6-43b6-9eec-6767f54b5224)
+
+full adder
+
+![exp 3 fa wave](https://github.com/ADITHYA23000033/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514544/9d7a2b21-cf6f-4baa-9023-f27f059c82ae)
+
+
+### TRUTH TABLE :
+
+half adder
+
+![Exp3 truthtable (ha)](https://github.com/ADITHYA23000033/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514544/b2ad43e6-e4cb-4a66-8bb2-b823c3143b19)
+
+full adder
+
+![Exp3 truthtable (fa)](https://github.com/ADITHYA23000033/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514544/bf3a59da-0cad-4282-ab1d-cdba18fe6fc3)
 
 ### Result:
+
+Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus
+using Verilog programming.
